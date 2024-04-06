@@ -43,6 +43,3 @@ Open the `sito/index.html` file in your browser. Click on the "Create Persons" b
 
 - Marco Padovani
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
