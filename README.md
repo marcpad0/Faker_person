@@ -41,7 +41,7 @@ Open the `sito/index.html` file in your browser. Click on the "Create Persons" b
 
 ## Authors
 
-- Your Name
+- Marco Padovani
 
 ## License
 
